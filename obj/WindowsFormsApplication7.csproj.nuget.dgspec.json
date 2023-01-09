@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\umaro\\Documents\\Visual Studio 2010\\Projects\\WindowsFormsApplication7\\WindowsFormsApplication7\\WindowsFormsApplication7.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\umaro\\Documents\\Visual Studio 2010\\Projects\\WindowsFormsApplication7\\WindowsFormsApplication7\\WindowsFormsApplication7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\umaro\\Documents\\Visual Studio 2010\\Projects\\WindowsFormsApplication7\\WindowsFormsApplication7\\WindowsFormsApplication7.csproj",
+        "projectName": "WindowsFormsApplication7",
+        "projectPath": "C:\\Users\\umaro\\Documents\\Visual Studio 2010\\Projects\\WindowsFormsApplication7\\WindowsFormsApplication7\\WindowsFormsApplication7.csproj",
+        "packagesPath": "C:\\Users\\umaro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\umaro\\Documents\\Visual Studio 2010\\Projects\\WindowsFormsApplication7\\WindowsFormsApplication7\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\umaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net40-client"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net40-client": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net40-client": {
+          "dependencies": {
+            "FontAwesome.Sharp": {
+              "target": "Package",
+              "version": "[5.8.3, )"
+            },
+            "MetroModernUI": {
+              "target": "Package",
+              "version": "[1.4.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
